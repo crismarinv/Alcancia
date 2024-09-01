@@ -1,0 +1,1 @@
+El presente proyecto, creado en lenguage java, permite llenar, manejar y romper una alcancía virtualmente, con monedas de denominaciones colombianas. Basado en la guía 2 de la materia desarrollo de software, de la Universidad Ean. ¡Que lo disfuten!.
